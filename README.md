@@ -1,11 +1,11 @@
 ### Hi 👋
 
-* I'm a programmer, Emacs user, Lisper and a free software advocate.
-* My online nicknames include "(lambda () nil)" and "(lambda () t)".
+* I'm a programmer, Emacs user, Lisper, Anarchist, and a free software advocate.
+* My online nicknames include (lambda () nil), nil, Lain and Lynn.
 * Check out [my blog](https://lambdanil.github.io)!
 
 <!--
-**CuBeRJAN/CuBeRJAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lambdanil/lambdanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
