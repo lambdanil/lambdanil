@@ -1,6 +1,6 @@
 ### Hi 👋
 
-* I'm a programmer, Emacs user, Lisper, Anarchist, and a free software advocate.
+* I'm a programmer, Emacs user, lisper, anarchist, and a free software advocate.
 * My online nicknames include (lambda () nil), nil, Lain and Lynn.
 * Check out [my blog](https://lambdanil.github.io)!
 
