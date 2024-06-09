@@ -1,7 +1,7 @@
 ### Hi 👋
 
 * I'm a programmer, Emacs user, lisper, anarchist, and a free software advocate.
-* My online nicknames include (lambda () nil), nil, Lain and Lynn.
+* My online nicknames include (lambda () nil), nil, lain and lynn.
 * Check out [my blog](https://lambdanil.github.io)!
 
 <!--
